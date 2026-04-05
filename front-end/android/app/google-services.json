@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "212182583004",
+    "project_id": "apptouriste",
+    "storage_bucket": "apptouriste.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212182583004:android:87093e234f8f33c7bf5619",
+        "android_client_info": {
+          "package_name": "com.moroccocheck.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212182583004-0j83u3stotugoodfhf6avhepb8teui1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVlobhg7j6G0I53FotEHQqc8NxaNicedA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212182583004-0j83u3stotugoodfhf6avhepb8teui1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212182583004:android:62f6e68db38c5c50bf5619",
+        "android_client_info": {
+          "package_name": "com.moroccocheck.app.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212182583004-gav74no112vgm0rthloa2pdlnf3eb9lf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moroccocheck.app.staging",
+            "certificate_hash": "84415c093805b845fa66c566cbc7995e58d81aa1"
+          }
+        },
+        {
+          "client_id": "212182583004-0j83u3stotugoodfhf6avhepb8teui1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVlobhg7j6G0I53FotEHQqc8NxaNicedA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212182583004-0j83u3stotugoodfhf6avhepb8teui1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
